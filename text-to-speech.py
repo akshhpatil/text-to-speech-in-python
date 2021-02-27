@@ -1,3 +1,9 @@
+#install virtual envirmont 
+#pip install virtualenv
+#create virtualenv
+#activate virtualenv 
+
+
 
 from gtts import gTTS                                     #import modules from gtts
 import os
