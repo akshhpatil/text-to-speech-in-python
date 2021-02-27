@@ -1,6 +1,6 @@
 # text-to-speech-in-python
 
-1.You need to install virtual environment so that install.
+1.You need to install virtual environment so that 
 type:-pip install virtualenv
 
 2.Make virtualenv variable in directory that you are working.
