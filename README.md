@@ -13,3 +13,7 @@ e:/py/myenv/Scripts/Activate.ps1 (your directory name)
 (myenv) PS E:\py>
 
 5.Run python file.
+
+
+![text_to_speech](https://user-images.githubusercontent.com/76992034/125308524-99124e00-e34e-11eb-963c-b9d57e78a9ea.png)
+
